@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "909127107833",
+    "firebase_url": "https://myawesomeproject-49d56.firebaseio.com",
+    "project_id": "myawesomeproject-49d56",
+    "storage_bucket": "myawesomeproject-49d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909127107833:android:26d85707d3555ca0",
+        "android_client_info": {
+          "package_name": "com.allandroidprojects.ecomsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909127107833-jvnsj3d26o3nltgiuo9uhc88aj07t2ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkaT3Tdi6z3KfkN71WnbCKlXh88-JLPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909127107833:android:5d48f837b2d25990",
+        "android_client_info": {
+          "package_name": "com.allandroidprojects.WearMyCloset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909127107833-jvnsj3d26o3nltgiuo9uhc88aj07t2ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkaT3Tdi6z3KfkN71WnbCKlXh88-JLPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
